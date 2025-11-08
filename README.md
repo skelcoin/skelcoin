@@ -28,10 +28,11 @@ Contract files located at:
 ## 💰 Tokenomics
 | Metric | Value |
 |---------|-------|
-| Total Supply | 1,000,000,000 SKEL |
-| Presale | 50% |
-| Liquidity | 30% |
-| Team | 10% |
-| Community Rewards | 10% |
+🪙 Skelcoin Token Distribution
+ ├── 40% — Public Sale / Liquidity
+ ├── 25% — Marketing & Partnerships
+ ├── 20% — Community Rewards
+ └── 15% — Team & Advisors
+
 
 ---
