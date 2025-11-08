@@ -26,7 +26,6 @@ Contract files located at:
 ---
 
 ## 💰 Tokenomics
-| Metric | Value |
 |---------|-------|
 🪙 Skelcoin Token Distribution
  ├── 40% — Public Sale / Liquidity
